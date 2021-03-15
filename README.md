@@ -20,4 +20,4 @@ theta_vals = [pi/3,pi/4,-pi/4,pi/2,pi/4];
 ```
 
 ## Output
-The script will generate the symbolic transformation from the world to the end effector (T_O_E), the symbolic Jacobian of the mechanisms from the world to the end effector (Jacobian), the numeric version of T_O_E according to user inputs, the numberic version of the Jacobian according to user inputs, and the associated robot configuration as a PNG file. One can also find the individual transformations per frame in the ```T``` variable. 
+The script will generate the symbolic transformation from the world to the end effector (T_O_E), the symbolic Jacobian of the mechanisms from the world to the end effector (Jacobian), the numeric version of T_O_E according to user inputs, the numeric version of the Jacobian according to user inputs, and the associated robot configuration as a PNG file. One can also find the individual transformations per frame in the ```T``` variable. 
