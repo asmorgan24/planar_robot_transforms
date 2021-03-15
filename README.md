@@ -5,8 +5,8 @@
 	<img src="/examples/robot_sav2.png" width="40%">
   <img src="/examples/robot_sav3.png" width="40%">
 </p>
-A (simple) robot kinematic solver for planar transformations and Jacobians of serial-link mechanisms (can easily be expanded to spatial representations if desired).
-
+A (simple) robot kinematic solver for planar transformations and Jacobians of serial-link mechanisms (can easily be expanded to spatial representations if desired).  
+<br/>
 This repository is generally guided for those seeking to learn more about elementary serial-link kinematics and are looking for a simple simulation. This package assumes you are solving transformations for a robot with a single base link (unconstrained serial linkage). While running, this script with calculate the individual transformations from one linkage to another, in addition to the representation of the whole robot.  
 
 ## Usage
